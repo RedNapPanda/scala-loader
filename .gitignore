@@ -1,0 +1,11 @@
+**/.idea/*
+**/target/*
+**/.gradle/*
+**/build/*
+**/out/*
+/test/*
+*.iml
+*.ipr
+*.iws
+*.class
+dependency-reduced-pom.xml
